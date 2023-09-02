@@ -1,0 +1,29 @@
+div {
+    width:50%;
+    margin:25%;
+}
+body {
+    background-color: black;
+}
+.textt {
+    color: white;
+    text-align: center;
+}
+h1 {
+    font-family: 'Libre Baskerville', serif;
+}
+#content {
+    font-family: 'Phudu', cursive;
+}
+#lie {
+    font-size: 10px;
+}
+#truth {
+    font-size: 5px;
+}
+img {
+    background-image: url(./assets/images/party-lights.jpg);
+    background-size: 240%;
+    border: 5px solid white;
+    width: 100%;
+}
